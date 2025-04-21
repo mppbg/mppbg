@@ -28,6 +28,12 @@ Apaixonado por desafios e inovação, busco sempre me manter atualizado com as t
 
 ---
 
+## 🏆 Conquistas no GitHub
+
+Confira minhas conquistas no GitHub: [Achievements](https://github.com/mppbg?tab=achievements)
+
+---
+
 ## 📫 Contato
 
 - **LinkedIn**: [linkedin.com/in/marcosppbg](https://www.linkedin.com/in/marcosppbg/)
