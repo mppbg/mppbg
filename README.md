@@ -21,11 +21,11 @@ Apaixonado por desafios e inovação, busco sempre me manter atualizado com as t
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Marcos](https://github-readme-stats.vercel.app/api?username=marcosppbg&show_icons=true&theme=radical)
+![Estatísticas do GitHub de Marcos](https://github-readme-stats.vercel.app/api?username=mppbg&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Contato
 
 - **LinkedIn**: [linkedin.com/in/marcosppbg](https://www.linkedin.com/in/marcosppbg/)
-- **Email**: marcos@example.com
+- **Email**: marcosppbg@gmail.com
